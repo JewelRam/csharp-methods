@@ -1,0 +1,11 @@
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.csprojAssemblyReference.cache
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfoInputs.cache
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfo.cs
+C:\Users\Your Butt\workspace\csharp\exercises\methods\bin\Debug\netcoreapp2.1\methods.deps.json
+C:\Users\Your Butt\workspace\csharp\exercises\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.json
+C:\Users\Your Butt\workspace\csharp\exercises\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.dev.json
+C:\Users\Your Butt\workspace\csharp\exercises\methods\bin\Debug\netcoreapp2.1\methods.dll
+C:\Users\Your Butt\workspace\csharp\exercises\methods\bin\Debug\netcoreapp2.1\methods.pdb
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.dll
+C:\Users\Your Butt\workspace\csharp\exercises\methods\obj\Debug\netcoreapp2.1\methods.pdb
